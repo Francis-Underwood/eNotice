@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configs>
+	<menuitem>
+		<text>关于我们</text>
+	</menuitem>
+	<menuitem>
+		<text>最新消息</text>
+	</menuitem>
+	<menuitem>
+		<text>其他资料</text>
+	</menuitem>
+	<menuitem>
+		<text>活动相片</text>
+	</menuitem>
+</configs>
