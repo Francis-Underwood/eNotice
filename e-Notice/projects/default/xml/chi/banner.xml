@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+  <config auto_play="true" auto_play_duration="2.4" grid_row="4" grid_column="6" tween_duration="0.7" tween_delay="0.02" stylesheet="flashmo_224_style.css" bar_status="1">
+	</config>
+  <photo>
+    <id>1</id>
+    <filename>2.jpg</filename>
+    <description>&lt;p class="subtitle"&gt;Photo title two goes here&lt;/p&gt;
+&lt;p&gt;Fusce quis diam sit amet tortor luctus pellentesque. &lt;a href="http://www.flashmo.com/donate" target="_blank"&gt;Donec accumsan urna&lt;/a&gt; non elit tristique mattis. &lt;strong&gt;Vivamus fermentum&lt;/strong&gt; orci viverra nisl. Donec euismod enim et risus. &lt;span class="note"&gt;Integer vestibulum luctus leo at iaculis. Nulla scelerisque sodales arcu elementum imperdiet.&lt;/span&gt;&lt;/p&gt;</description>
+    <transition flow="in" direction="left" rotation="-90"></transition>
+  </photo>
+  <photo>
+    <id>2</id>
+    <filename>3.jpg</filename>
+    <description><![CDATA[<p class="subtitle">Photo title three goes here</p><p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. <span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+    <transition flow="in" direction="right" rotation="180"></transition>
+  </photo>
+  <photo>
+    <id>3</id>
+    <filename>4.jpg</filename>
+    <description>&lt;p class="subtitle"&gt;Photo title four goes here&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.flashmo.com" target="_blank"&gt;Mauris vestibulum felis&lt;/a&gt; eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante. &lt;span class="highlight"&gt;Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero.&lt;/span&gt;&lt;/p&gt;</description>
+    <transition flow="in" direction="down"></transition>
+  </photo>
+  <photo>
+    <id>4</id>
+    <filename>5.jpg</filename>
+    <description><![CDATA[<p class="subtitle">Photo title five goes here</p><p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. <a href="http://www.flashmo.com" target="_parent">Aenean eleifend</a>, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>]]></description>
+    <transition flow="in" direction="down"></transition>
+  </photo>
+</photos>

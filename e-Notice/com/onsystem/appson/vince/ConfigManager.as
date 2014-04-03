@@ -20,9 +20,14 @@
 		// Xml data
 		private var xml:XML;
 		*/
-		public static const KILL_CACHE:Boolean = false;
+		public static const KILL_CACHE:Boolean = true;
 		
 		public static var LANG:String = "chi";
+		
+		public static var PROJECT_DIR:String = "";
+		public static var PROJECT_DIR_WIL:String = "http://192.168.0.114/enotice-cms-v2.0/";
+		
+		public static const PROJECT_DIR_SUFFIX:String = "projects/";		
 		
 		public static var BACKGROUND_PHOTO_DIRECTORY:String = "images/background/";
 		
@@ -38,9 +43,9 @@
 		
 		public static const NUM_OF_MENU_ITEM:uint = 9;
 		
-		public static var MENU_ITEM_HEIGHT:uint = 189;
+		public static var MENU_ITEM_HEIGHT:uint = 180;
 		
-		public static var MENU_ITEM_WIDTH:uint = 189;
+		public static var MENU_ITEM_WIDTH:uint = 180;
 		
 		public static var APPSON_BOX_HEIGHT:uint = 100;
 		
@@ -59,12 +64,12 @@
 		public static var MENU_ITEM_BUTTON_MARGIN_LEFT:Number = 0;
 		
 		// 50 + 189
-		public static var MENU_ITEM_BUTTON_SPACE_HOR:Number = 50;
+		public static var MENU_ITEM_BUTTON_SPACE_HOR:Number = 58;
 		
 		//public static const MENU_ITEM_BUTTON_WIDTH:Number = 189;
 		
 		// 42 + 189
-		public static var MENU_ITEM_BUTTON_SPACE_VER:Number = 42;
+		public static var MENU_ITEM_BUTTON_SPACE_VER:Number = 55;
 		
 		//public static const MENU_ITEM_BUTTON_HEIGHT:Number = 189;
 		
@@ -132,6 +137,7 @@
 		public static var NEWS_DIRECTORY:String = "images/news/";
 		
 		public static var NEWS_THUMB_DIRECTORY:String = "thumbnails/";
+		public static var NEWS_THUMB_DIRECTORY_WIL:String = "photos/thumb/";
 		
 		public static var NEWS_PHOTO_DIRECTORY:String = "photos/";
 		
@@ -160,6 +166,7 @@
 		public static var GALLERY_DIRECTORY:String = "images/gallery/";
 		
 		public static var GALLERY_THUMB_DIRECTORY:String = "thumbnails/";
+		public static var GALLERY_THUMB_DIRECTORY_WIL:String = "thumb/";
 		
 		public static var GALLERY_PHOTO_DIRECTORY:String = "photos/";
 		
@@ -218,9 +225,30 @@
 		public static var INFO_PANEL_TEXT_SPACE:Number = 10;
 		
 		/***********************************************************/		
+
+	
+		/************** VARIABLES OF BANNER MODULE **************/				
+
+		public static var MOVIE_GALLERY_DIRECTORY:String = "movgallery/video/";	
+		public static var MOVIE_GALLERY_DIRECTORY_WIL:String = "movgallery/";	
 		
+		public static var MOVIE_THUMB_DIRECTORY:String = "movgallery/thumb/";	
 		
+		public static var MOVIE_THUMB_NUM_OF_COLUMS:Number = 4;
 		
+		public static var MOVIE_THUMB_NUM_OF_ROWS:Number = 3;		
+		
+		public static const MOVIE_THUMB_ITEM_WIDTH:Number = 112;
+		
+		public static const MOVIE_THUMB_ITEM_HEIGHT:Number = 112;		
+		
+		public static var MOVIE_THUMB_ITEM_SPACE_HOR:Number = 11.5;
+		
+		public static var MOVIE_THUMB_ITEM_SPACE_VER:Number = 14;		
+		
+		/***********************************************************/	
+
+				
 		// A reference to the ConfigManager
 		private static var _configManager:ConfigManager;
 		

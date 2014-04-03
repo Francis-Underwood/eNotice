@@ -1,4 +1,4 @@
-package com.greensock 
+﻿package com.greensock 
 {
     import flash.display.*;
     import flash.events.*;
@@ -153,7 +153,7 @@ package com.greensock
             _time = flash.utils.getTimer() * 0.001;
             var loc1:*=_masterList;
             loc7 = 0;
-            loc8 = loc1;
+            var loc8:* = loc1;
             for (loc3 in loc8) 
             {
                 loc2 = loc1[loc3];

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+	<video>
+		<id></id>
+		<link>PICHONKUN.flv</link>
+		<aspect>
+			<option>3</option>
+			<width>400</width>
+			<height>300</height>
+		</aspect>
+	</video>
+	<video>
+		<id></id>
+		<link>Poker_Face.flv</link>
+		<aspect>
+			<option>0</option>
+			<width></width>
+			<height></height>
+		</aspect>
+	</video>
+	<video>
+		<id></id>
+		<link>stand-by-me.flv</link>
+		<aspect>
+			<option>0</option>
+			<width></width>
+			<height></height>
+		</aspect>
+	</video>	
+</playlist>
