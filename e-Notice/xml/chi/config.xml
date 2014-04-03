@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <configs>
-	<logo></logo>
+	<logo>logo.png</logo>
 	<title>香港海關</title>
 	<subtitle>海關訓練學校</subtitle>
 	<background>e-Notice_customs_bg.jpg</background>
+	<banner>i</banner>
 	<menuitems>
 	  <menuitem>
 		<id>0</id>

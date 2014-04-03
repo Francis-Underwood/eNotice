@@ -1,145 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <news>
-	<item>
-			<big>1.jpg</big>
-			<thumb>1.jpg</thumb>
-			<date>21 Oct 2009</date>
-			<title>新聞標題</title>
-			<summary>
-				<![CDATA[dolor sit amet, consectetuer adipiscing elit. Nam non diam neccursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[<font color="#FF0000" size="16">Lorem ipsum</font> dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>2.jpg</big>
-			<thumb>2.jpg</thumb>
-			<date>01 Sep 2009</date>	
-			<title>I will be in NY at the BETYF conference</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>3.jpg</big>
-			<thumb>3.jpg</thumb>
-			<date>17 Aug 2009</date>		
-			<title>Our Company Wins the First Prize at MDNW</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>4.jpg</big>
-			<thumb>4.jpg</thumb>
-			<date>04 Aug 2009</date>		
-			<title>New website lauched for 2009 season</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>5.jpg</big>
-			<thumb>5.jpg</thumb>
-			<date>21 Apr 2009</date>	
-			<title>New pictures added to big gallery section 2</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>6.jpg</big>
-			<thumb>6.jpg</thumb>
-			<date>14 Apr 2009</date>		
-			<title>I will be in NY at the BETYF conference 2</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>7.jpg</big>
-			<thumb>7.jpg</thumb>
-			<date>09 Mar 2009</date>		
-			<title>Our Company Wins the First Prize at MDNW 2</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>8.jpg</big>
-			<thumb>8.jpg</thumb>
-			<date>02 Mar 2009</date>		
-			<title>New website lauched for 2009 season 2</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>9.jpg</big>
-			<thumb>9.jpg</thumb>
-			<date>21 Feb 2009</date>		
-			<title>New pictures added to big gallery section 3</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>10.jpg</big>
-			<thumb>10.jpg</thumb>
-			<date>10 Feb 2009</date>	
-			<title>I will be in NY at the BETYF conference 3</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
-	
-	<item>
-			<big>1.jpg</big>
-			<thumb>1.jpg</thumb>
-			<date>16 Jan 2009</date>		
-			<title>Our Company Wins the First Prize at MDNW 3</title>
-			<summary>
-				<![CDATA[<i>Lorem</i> <b>ipsum</b> dolor sit amet, consectetuer adipiscing elit. Nam non diam nec <a href="http://kibashare.com/user/mariuspytu2/news/" target="_blank">justo</a> cursus euismod.]]>
-			</summary>
-			<content>
-				<![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur a purus quis lectus pretium tincidunt. Cras euismod lacus id tellus aliquet pellentesque. In iaculis neque euismod orci malesuada sed blandit turpis rutrum. Phasellus hendrerit, leo at laoreet dignissim, tortor risus aliquet nulla, pellentesque bibendum tellus diam sed diam. Quisque ipsum sem, placerat eu mattis a, aliquam vitae eros. Nunc ligula orci, pharetra quis rutrum id, suscipit ac magna. Sed sed nunc non ante tempus euismod in nec lorem. Donec venenatis, ante quis feugiat interdum, est justo fringilla risus, non tincidunt augue dolor nec massa. Aliquam ullamcorper, dolor at tempus vulputate, risus augue aliquet lectus, id tincidunt nisi tortor eget libero. Morbi vel mi sit amet erat lacinia feugiat. In nulla nisi, cursus eget aliquam vitae, bibendum in elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue enim, pharetra quis tempus ac, venenatis sit amet lacus. Cras in dolor at urna tincidunt lobortis sit amet at augue. Quisque mi nunc, euismod nec condimentum et, molestie at lacus. Aliquam lacinia, lectus at lobortis lacinia, ante mauris rutrum urna, vitae luctus dolor orci a nisi. Morbi commodo lectus et eros vestibulum mollis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]>
-			</content>
-	</item>
+  <item>
+    <id>2</id>
+    <big>20110504130446road cargo.jpg</big>
+    <thumb>thDyGk2M.jpg</thumb>
+    <date>2011-05-04</date>
+    <title>道路貨物資料系統 (ROCARS) </title>
+    <summary>道路貨物資料系統在2010年5月17日正式推出，並展開強制實施前的18個月過渡期。
+</summary>
+    <content><![CDATA[道路貨物資料系統在2010年5月17日正式推出，並展開強制實施前的18個月過渡期。
+
+已登記的付貨人或貨運代理可預先以電子方式向海關提供道路貨物資料。此系統亦便利了貨車司機，讓他們在各個陸路邊境管制站享用無縫清關服務。
+ 
+ ]]></content>
+  </item>
+  <item>
+    <id>1</id>
+    <big>20110504125550corrupt.jpg</big>
+    <thumb>thV6aXlX.jpg</thumb>
+    <date>2011-05-04</date>
+    <title>金錢服務經營者發牌制度</title>
+    <summary>財經事務及庫務局建議制訂適用於金融機構的客戶查證及備存紀錄規定及監管金錢服務經營者的新法例。</summary>
+    <content><![CDATA[財經事務及庫務局建議制訂適用於金融機構的客戶查證及備存紀錄規定及監管金錢服務經營者的新法例。監管金錢服務經營者將會由香港海關負責執行。
+
+根據擬議法例，建議的發牌制度會取代現時由警方根據《有組織及嚴重罪行條例》執行的現行登記安排。就擬議法例，財經事務及庫務局分別於2009年7月及9月進行了兩輪公衆諮詢。
+
+《打擊洗錢及恐怖分子資金籌集(金融機構) 條例草案》巳於2010年10月29日刊憲及現正由立法會之法案委員會審議條文。]]></content>
+  </item>
 </news>

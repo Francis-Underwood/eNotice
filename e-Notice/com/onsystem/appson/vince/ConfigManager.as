@@ -81,7 +81,7 @@
 		
 		/************** VARIABLES OF BANNER MODULE **************/			
 		
-		public static var BANNER_PHOTO_DIRECTORY:String = "images/banner/";		
+		public static var BANNER_PHOTO_DIRECTORY:String = "images/banner/";			
 		
 		public static var BANNER_AUTO_PLAY_DURATION:Number = 3000;
 		
@@ -105,6 +105,11 @@
 		
 		public static var BANNER_HEIGHT:Number = 540;
 		
+		public static var BANNER_VIDEO_DIRECTORY:String = "videos/";	
+		
+		public static var BANNER_VIDEO_WIDTH:int = 820;		
+		
+		public static var BANNER_VIDEO_HEIGHT:int = 540;			
 		/***********************************************************/		
 		
 		
